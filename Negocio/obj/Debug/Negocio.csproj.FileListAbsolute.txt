@@ -1,0 +1,9 @@
+F:\MODAHORROS\Negocio\bin\Debug\Negocio.dll
+F:\MODAHORROS\Negocio\bin\Debug\Negocio.pdb
+F:\MODAHORROS\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+F:\MODAHORROS\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+F:\MODAHORROS\Negocio\obj\Debug\Negocio.dll
+F:\MODAHORROS\Negocio\obj\Debug\Negocio.pdb
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Negocio\obj\Debug\Negocio.dll
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Negocio\obj\Debug\Negocio.pdb

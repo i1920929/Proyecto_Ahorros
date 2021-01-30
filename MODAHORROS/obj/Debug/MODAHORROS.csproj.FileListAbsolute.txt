@@ -1,0 +1,22 @@
+F:\MODAHORROS\MODAHORROS\bin\Debug\MODAHORROS.exe.config
+F:\MODAHORROS\MODAHORROS\bin\Debug\MODAHORROS.exe
+F:\MODAHORROS\MODAHORROS\bin\Debug\MODAHORROS.pdb
+F:\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.csprojAssemblyReference.cache
+F:\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.Properties.Resources.resources
+F:\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.csproj.GenerateResource.cache
+F:\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.csproj.CoreCompileInputs.cache
+F:\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.exe
+F:\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.pdb
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\bin\Debug\MODAHORROS.exe.config
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\bin\Debug\MODAHORROS.exe
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\bin\Debug\MODAHORROS.pdb
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.csprojResolveAssemblyReference.cache
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.Ahorros.resources
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.frmAutorizacion.resources
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.frmBusquedaClientes.resources
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.frmCliente.resources
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.frmCuentas.resources
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.Properties.Resources.resources
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.csproj.GenerateResource.Cache
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.exe
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\MODAHORROS\obj\Debug\MODAHORROS.pdb

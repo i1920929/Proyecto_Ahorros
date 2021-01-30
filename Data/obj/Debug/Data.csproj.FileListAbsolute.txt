@@ -1,0 +1,9 @@
+F:\MODAHORROS\Data\bin\Debug\Data.dll
+F:\MODAHORROS\Data\bin\Debug\Data.pdb
+F:\MODAHORROS\Data\obj\Debug\Data.csprojAssemblyReference.cache
+F:\MODAHORROS\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+F:\MODAHORROS\Data\obj\Debug\Data.dll
+F:\MODAHORROS\Data\obj\Debug\Data.pdb
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Data\obj\Debug\Data.dll
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Data\obj\Debug\Data.pdb

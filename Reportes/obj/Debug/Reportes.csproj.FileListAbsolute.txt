@@ -1,0 +1,11 @@
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\bin\Debug\Reportes.exe.config
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\bin\Debug\Reportes.exe
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\bin\Debug\Reportes.pdb
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\obj\Debug\Reportes.csprojResolveAssemblyReference.cache
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\obj\Debug\Reportes.Properties.Resources.resources
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\obj\Debug\Reportes.csproj.GenerateResource.Cache
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\obj\Debug\Reportes.exe
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\obj\Debug\Reportes.pdb
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\obj\Debug\Reportes.Form1.resources
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\obj\Debug\RdlCompile.cache
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Reportes\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,11 @@
+F:\MODAHORROS\Entidades\bin\Debug\Entidades.dll
+F:\MODAHORROS\Entidades\bin\Debug\Entidades.pdb
+F:\MODAHORROS\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\MODAHORROS\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\MODAHORROS\Entidades\obj\Debug\Entidades.dll
+F:\MODAHORROS\Entidades\obj\Debug\Entidades.pdb
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Entidades\bin\Debug\Entidades.dll
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Entidades\bin\Debug\Entidades.pdb
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Entidades\obj\Debug\Entidades.dll
+G:\A. IC\3° - 4° Semestre\Desarrollo de SIstemas\MODAHORROS\Entidades\obj\Debug\Entidades.pdb
